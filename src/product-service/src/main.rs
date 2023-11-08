@@ -115,7 +115,7 @@ async fn main() -> std::io::Result<()> {
     let products = vec![
         Product {
             id: 1,
-            name: "Contoso Catnip's Friend".to_string(),
+            name: "Edited Product 123 Catnip's Friend".to_string(),
             price: 9.99,
             description: "Watch your feline friend embark on a fishing adventure with Contoso Catnip's Friend toy. Packed with irresistible catnip and dangling fish lure.".to_string(),
             image: "/placeholder.png".to_string()
